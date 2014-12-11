@@ -10,3 +10,7 @@
  * Please make screenshots only in nHD or HD resolution, or edit and change size.
  * If you can't make screenshot in specifed resolution, send anyway.
  * But remind them that screenshot with unspecified parameters.
+
+### Text file Rules:
+ * Only write the short data. (Seed number/text or generator settings)
+ * And write what this text for (Seed, FLAT world generator or DEFAULT world generator settings)
