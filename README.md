@@ -14,3 +14,5 @@
 ### Text file Rules:
  * Only write the short data. (Seed number/text or generator settings)
  * And write what this text for (Seed, FLAT world generator or DEFAULT world generator settings)
+
+Yes, i know, this rules really severe, in future I want to soften this rules :D
